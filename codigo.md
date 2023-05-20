@@ -6,7 +6,7 @@ const char* password = "16alejandro#";                       // Contraseña de l
 const char* botToken = "6109451610:AAFjO_tiBKT_FDEqAnuBgS2nsOa2JBGf7eQ";  // Token del bot de Telegram
 const char* chatID = "6093286203";                        // ID del chat de Telegram
 
-int hallSensorPin = 27;  // Define el pin en el que está conectado el sensor de infrarrojos
+int hallSensorPin = 27;  // Define el pin en el que está conectado el sensor de hall
 boolean sendNotifications = true; //esta variable se utiliza para habilitar o desabilitar el envio de notificaciones 
 
 void setup() {
